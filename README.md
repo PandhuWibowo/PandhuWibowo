@@ -63,18 +63,6 @@ when i'm not writing code, i'm probably writing words over on [medium](https://p
 
 <br/>
 
-**github stats**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PandhuWibowo&show_icons=true&hide_border=true&hide_title=false&bg_color=fdf9f7&title_color=a08898&text_color=6d6070&icon_color=c0a0b4&ring_color=d4b8c8&border_radius=12" height="155"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandhuWibowo&layout=compact&hide_border=true&bg_color=fdf9f7&title_color=a08898&text_color=6d6070&border_radius=12" height="155"/>
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
